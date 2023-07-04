@@ -1,0 +1,13 @@
+.bg-fizz {
+  background-color: #05485e ;  
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.green {
+    background-color: #0cd6a1;
+}
