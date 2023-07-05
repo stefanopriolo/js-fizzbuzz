@@ -3,11 +3,20 @@
 }
 
 .box {
-    width: 100px;
-    height: 100px;
-    background-color: red;
+    width: 150px;
+    height: 150px;
+    background-color: #1389b2;
 }
 
 .green {
     background-color: #0cd6a1;
 }
+
+.yellow {
+    background-color: #ffd166;
+}
+
+.red {
+    background-color: #f0466f;
+}
+
